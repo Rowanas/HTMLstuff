@@ -1,0 +1,20 @@
+
+em {
+    color:aqua
+}
+
+article h1{
+    color: red
+}
+
+article > p{
+    color:burlywood
+}
+
+footer + p{
+    color: rebeccapurple
+}
+
+p ~ blockquote ~ p {
+    color: grey
+}
