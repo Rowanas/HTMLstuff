@@ -1,0 +1,19 @@
+body{
+    background-color: slateblue;
+}
+
+.leftalign  {
+    color:blueviolet;
+    text-align: left;
+}
+
+.rightalign {
+    color:red;
+    text-align: right;
+}
+
+.centrealign {
+    color: aqua;
+    text-align:center;
+    border-radius: 20px;
+}
